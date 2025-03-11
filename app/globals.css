@@ -16,6 +16,11 @@
 
 body {
   color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  background:url(./7d42cb9d-c0ce-42ad-b0f2-02277293f5a3.jpg);
+  background-size: 99%;
+  font-family: Arial, Helvetica, 'sans-serif', 'jersey 10';
+  margin-left: 24px;
+  background-repeat: inherit;
+  scroll-behavior:initial;
 }
+
