@@ -56,8 +56,8 @@ function Text(){
 
 function Picture(){
   return(
-    <div className="absolute top-50 right-[7%] bg-white max-w-[332px] max-h-[377px] min-w-[166px] min-h-[83px]  justify-items-center justify-center items-center content-center border  rounded-3xl md: fixed right-2 w-[332/2px] h-[377/2px]">
-      <Image src={Tarek} width={280} height={318} alt="tarek" className="min-w-[140px] min-h-[67px]"/>
+    <div className="absolute top-50 right-[7%] bg-white  justify-items-center justify-center items-center content-center border  rounded-3xl md: fixed right-2 w-[332/2px] h-[377/2px]">
+      <Image src={Tarek} width={280} height={318} alt="tarek" className=""/>
     </div>
   )
 }
